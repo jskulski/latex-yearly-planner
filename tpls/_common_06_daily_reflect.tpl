@@ -1,8 +1,8 @@
-\myUnderline{Things I'm grateful for}
+\myUnderline{What I'm grateful for}
 \myMash{\myNumDailyDiaryGrateful}{\myNumDotWidthFull}
 \medskip
 
-\myUnderline{The best thing that happened today}
+\myUnderline{What to repeat tomorrow}
 \myMash{\myNumDailyDiaryBest}{\myNumDotWidthFull}
 \medskip
 
