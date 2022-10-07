@@ -88,6 +88,7 @@ type Numbers struct {
 	NotesOnPage         int
 	DotHeightFull       int
 	DotWidthFull        int
+	DotWidthOneThird    int
 	DotWidthTwoThirds   int
 }
 

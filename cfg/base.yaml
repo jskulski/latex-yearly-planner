@@ -37,6 +37,7 @@ layout:
     notesonpage: 35
     dotheightfull: 36
     dotwidthfull: 30
+    dotwidthonethird: 10
     dotwidthtwothirds: 20
 
   lengths:

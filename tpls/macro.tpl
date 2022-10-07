@@ -10,6 +10,7 @@
 \newcommand{\myNumQuarterlyLines}{ {{- $numbers.QuarterlyLines -}} }
 \newcommand{\myNumDotHeightFull}{ {{- $numbers.DotHeightFull -}} }
 \newcommand{\myNumDotWidthFull}{ {{- $numbers.DotWidthFull -}} }
+\newcommand{\myNumDotWidthOneThird}{ {{- $numbers.DotWidthOneThird -}} }
 \newcommand{\myNumDotWidthTwoThirds}{ {{- $numbers.DotWidthTwoThirds -}} }
 \newcommand{\myNumWeeklyLines}{ {{- $numbers.WeeklyLines -}} }
 \newcommand{\myNumDailyTodos}{ {{- $numbers.DailyTodos -}} }
